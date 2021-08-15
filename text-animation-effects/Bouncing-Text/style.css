@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+h1 {
+  text-align: center;
+}
+.canvas-holder {
+  width: 650px;
+  padding-top: 20px;
+  margin: 0 auto;
+  border: 3px solid white;
+}
